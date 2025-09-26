@@ -1,1 +1,10 @@
 # Comparacion de redaccion de requerimientos
+
+|        Requerimiento       |                                                IEEE (Lenguaje estructurado)                                                |                                                      User Story (Ágil)                                                      |
+|:--------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------:|
+| 1. Sensores de llenado     | El sistema deberá contar con sensores IoT instalados en los contenedores para medir en tiempo real el nivel de llenado.    | Como operador de aseo, quiero que los contenedores tengan sensores que envíen datos de llenado para saber cuándo vaciarlos. |
+| 2. Plataforma de monitoreo | El sistema deberá disponer de una plataforma central que reciba, procese y muestre los datos provenientes de los sensores. | Como administrador, quiero visualizar en una plataforma el estado de cada contenedor para planificar la recolección.        |
+| 3. Optimización de rutas   | El sistema deberá generar rutas de recolección basadas en los niveles de llenado para reducir costos y tiempo.             | Como operador de recolección, quiero que el sistema me indique la ruta más eficiente según los contenedores llenos.         |
+| 4. Alertas automáticas     | El sistema deberá enviar alertas automáticas cuando un contenedor alcance el 90% de su capacidad.                          | Como operador, quiero recibir una notificación cuando un contenedor esté por desbordarse para actuar a tiempo.              |
+| 5. Panel de datos          | El sistema deberá proporcionar un panel de control con reportes históricos y estadísticas de llenado.                      | Como entidad de control (UAESP), quiero acceder a estadísticas e históricos para evaluar la eficiencia del servicio.        |
+
