@@ -1,2 +1,2 @@
-##comparacion de redaccion de requerimientos
+## comparacion de redaccion de requerimientos
 
